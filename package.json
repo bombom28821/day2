@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node web.js"
   },
-  "author": "Nguyen Anh Duong",
+  "author": "Nguyen Thac Huy",
   "license": "Freee",
   "dependencies": {
     "express": "^4.17.1"
