@@ -11,5 +11,5 @@ app.get('/about', (req,res)=>{
 })
 
 const PORT = 5000;
-app.listen(process.even.PORT || PORT);
+app.listen(process.env.PORT || PORT);
 console.log('Sever is running')
